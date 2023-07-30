@@ -1,5 +1,5 @@
 # shopping-cart
-live-demo : https://imprsant.github.io/shopping-cart
+live-demo : https://codingsapienss.github.io/shopping-cart/
 
 
 This is a fully functional shopping cart project made with the help of vanilla javascript.
